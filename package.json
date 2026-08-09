@@ -1,0 +1,15 @@
+{
+  "name": "wireguard-panel",
+  "version": "1.0.0",
+  "description": "WireGuard config generator panel (FA/EN, light/dark)",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
